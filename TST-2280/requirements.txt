@@ -1,0 +1,7 @@
+pandas
+numpy
+apache-beam
+apache-beam[gcp,interactive,dataframe]
+logging
+
+
